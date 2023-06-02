@@ -1,6 +1,6 @@
 ESTRUTURA DE DADOS
 Trabalho de da matéria Estrutura de Dados 2013/1
-Alunos:Maria Eduarda barbosa Maciel - 2022101070077 Karen Kristiny Ramos - 202210101700174          
+Alunos:Maria Eduarda barbosa Maciel - 2022101070077 Karen Kristiny Ramos - 202210101700174 Luíz Felipe Silva - 20221010700069    
 
 Esse código através de uma matriz esparsa tem como objetivo recomendar filmes para um usuário com base em avaliações de filmes realizadas por avaliadores, a partir de dois bancos de dados movies.csv e ratings.csv.
 É pedido para que usuário informe o ID de um dos avaliadores dos filmes. Desta forma, o código apresentará filmes recomendados de acordo com as avaliações desse ID e printará na tela um top filmes recomendados para serem assistidos.
